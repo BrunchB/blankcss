@@ -1,4 +1,4 @@
-#player,#player a{ color:#fff; }
+#player,#player a{ color:#f7ae7d; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(main.png); }
 
@@ -15,15 +15,15 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:0px; }
-#player #seekerBase{ border-color:#dbf8ff; }
-#player #seekerBuffered{ background-color:#86caff; }
-#player #seekerSliderBase{ background-color:#fff; }
+#player #seekerBase{ border-color:#f7ae7d; }
+#player #seekerBuffered{ background-color:#f7ae7d; }
+#player #seekerSliderBase{ background-color:#f7ae7d; }
 
 #player #volume{ width:0px; right:0px; }
 #player #volumeSlider{ width:0px; background:url(sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#60AFFF; color:#1265ff; }
+#playlist,#playlist .module,#playlist h3{ border-color:#f7ae7d; color:#f7ae7d; }
 #playlist h3{ background:url(bar.jpg); text-shadow: white 0px 0px; }
-#playlist .even{background-color:#FFF;}
-#playlist .odd{ background-color:#dff6ff;}
-#playlist .focus{ background-color:#0099FF; color:#FFF;}
+#playlist .even{background-color:#f7ae7d;}
+#playlist .odd{ background-color:#f7ae7d;}
+#playlist .focus{ background-color:#f7ae7d; color:#f7ae7d;}
